@@ -12,9 +12,13 @@ Artistes visuels: Alex Le Guillou
 Composition musicale: Azu Tiwaline
 
 #### GALERIE 3 : Élevons-nous face aux défis
-Réalisateur: Émile Roy
+Artiste: Émile Roy
 
 Composition musicale: Uberko
+
+### Équipe de production
+#### GALERIE 3 : Élevons-nous face aux défis
+Réalisateur: Émile Roy
 
 Aide: David Suzuki et Joséphine Bacon
 
@@ -41,5 +45,7 @@ OASIS Immersion (au palais des congrès)
 
 301 Saint-Antoine St West
 Montreal, Quebec H2Z 1H5
+
+
 
 
