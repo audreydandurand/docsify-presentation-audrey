@@ -2,25 +2,21 @@
 ## Qui?
 ### Artistes
 ##### Galerie 1 : Un monde en régénération
-Artistes visuels: Katerine Giguère et Johnny Ranger
-
-Composition musicale: Anaïs Larocque et Jérémie Corriveau
+* Artistes visuels: Katerine Giguère et Johnny Ranger
+* Composition musicale: Anaïs Larocque et Jérémie Corriveau
 
 ##### Galerie 2 : Nous sommes interconnectés
-Artistes visuels: Alex Le Guillou
-
-Composition musicale: Azu Tiwaline
+* Artistes visuels: Alex Le Guillou
+* Composition musicale: Azu Tiwaline
 
 ##### Galerie 3 : Élevons-nous face aux défis
-Artiste: Émile Roy
-
-Composition musicale: Uberko
+* Artiste: Émile Roy
+* Composition musicale: Uberko
 
 ### Équipe de production
 ##### Galerie 3 : Élevons-nous face aux défis
-Réalisateur: Émile Roy
-
-Aide: David Suzuki et Joséphine Bacon
+* Réalisateur: Émile Roy
+* Aide: David Suzuki et Joséphine Bacon
 
 ### Collaborateurs et partenaires
 Nature vive réunit plusieurs organisations comme les Nations Unies, la fondation David Suzuki, les Ateliers pour la biodiversité, l’alliance environnementale Age of Union, le Palais des congrès de Montréal, Tourisme Montréal, WSP et National Geographic.
