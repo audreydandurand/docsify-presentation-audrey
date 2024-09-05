@@ -1,30 +1,45 @@
-# Modélisations vagabondes
+# Nature vive - Oasis immersion
 ## Qui?
-### Artiste
-L'artiste de l'oeuvre Modélisations vagabondes est Lydia Yakonowsky.
+### Artistes
+#### GALERIE 1 : Un monde en régénération
+Artistes visuels: Katerine Giguère et Johnny Ranger
 
-Artiste visuelle en arts multimédia
+Composition musicale: Anaïs Larocque et Jérémie Corriveau
+
+#### GALERIE 2 : Nous sommes interconnectés
+Artistes visuels: Alex Le Guillou
+
+Composition musicale: Azu Tiwaline
+
+#### GALERIE 3 : Élevons-nous face aux défis
+Réalisateur: Émile Roy
+
+Composition musicale: Uberko
+
+Aide: David Suzuki et Joséphine Bacon
 
 ### Collaborateurs et partenaires
-Elle a agit en coproduction avec le Partenariat du Quartier des spectacles. 
+Nature vive réunit plusieurs organisations comme les Nations Unies, la fondation David Suzuki, les Ateliers pour la biodiversité, l’alliance environnementale Age of Union, le Palais des congrès de Montréal, Tourisme Montréal, WSP et National Geographic.
 
-Mutek est aussi un autre de ses partenaires.
+L’oeuvre est produite et distribuée par OASIS Studios immersifs en collaboration avec National Geographic.
 
 ## Quand?
 
 ### Date de création 
-L'oeuvre a été créé en 2024.
+L'oeuvre a été créé en ...
 
 ### Date de première présentation
-Le 15 août a été la première mondiale de cette oeuvre.
+Le 22 février 2024 a été la première présentation de cette oeuvre.
 
 ### Dates importantes
-L'oeuvre est présenté dans le cadre du Village numérique de Mutek du 15 août 2024 au 29 août 2024. Elle restera présentée jusqu'au 23 septembre 2024 avec le Quartier des spectacles. Elle est visible de 20h à 23h.
+...
 
 ## Oû?
 
 ### Lieu de présentation initiale
-Façade aux abords du métro Saint-Laurent : 1984 Blvd. de Maisonneuve E, Montréal, QC H2K 2C8
-Présentation à l'extérieur
+OASIS Immersion (au palais des congrès)
+
+301 Saint-Antoine St West
+Montreal, Quebec H2Z 1H5
 
 
