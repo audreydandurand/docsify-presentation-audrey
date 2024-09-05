@@ -35,7 +35,7 @@ L'oeuvre a été créé en ...
 Le 22 février 2024 a été la première présentation de cette oeuvre.
 
 ### Dates importantes
-...
+National Geographic aborde Oasis Immersion pour réaliser l'exposition en 2022.
 
 ## Oû?
 ---
