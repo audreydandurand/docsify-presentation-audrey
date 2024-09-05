@@ -1,5 +1,7 @@
 # Nature vive - Oasis immersion
+
 ## Qui?
+---
 ### Artistes
 ##### Galerie 1 : Un monde en régénération
 * Artistes visuels: Katerine Giguère et Johnny Ranger
@@ -19,11 +21,12 @@
 * Aide: David Suzuki et Joséphine Bacon
 
 ### Collaborateurs et partenaires
-Nature vive réunit plusieurs organisations comme les Nations Unies, la fondation David Suzuki, les Ateliers pour la biodiversité, l’alliance environnementale Age of Union, le Palais des congrès de Montréal, Tourisme Montréal, WSP et National Geographic.
+Nature vive réunit plusieurs organisations comme **les Nations Unies**, **la fondation David Suzuki**, **les Ateliers pour la biodiversité**, **l’alliance environnementale Age of Union**, **le Palais des congrès de Montréal**, **Tourisme Montréal**, **WSP** et **National Geographic**.
 
 L’oeuvre est produite et distribuée par OASIS Studios immersifs en collaboration avec National Geographic.
 
 ## Quand?
+---
 
 ### Date de création 
 L'oeuvre a été créé en ...
@@ -35,6 +38,7 @@ Le 22 février 2024 a été la première présentation de cette oeuvre.
 ...
 
 ## Oû?
+---
 
 ### Lieu de présentation initiale
 OASIS Immersion (au palais des congrès)
@@ -47,6 +51,7 @@ Montreal, Quebec H2Z 1H5
 ### Autres lieux de présentation
 
 ## Quoi?
+---
 
 ### Description générale
 
@@ -58,7 +63,8 @@ Montreal, Quebec H2Z 1H5
 
 ### Processus de création
 
-## Comment
+## Comment ?
+---
 
 ### Composante centrale
 
