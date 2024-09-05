@@ -1,23 +1,23 @@
 # Nature vive - Oasis immersion
 ## Qui?
 ### Artistes
-#### GALERIE 1 : Un monde en régénération
+##### Galerie 1 : Un monde en régénération
 Artistes visuels: Katerine Giguère et Johnny Ranger
 
 Composition musicale: Anaïs Larocque et Jérémie Corriveau
 
-#### GALERIE 2 : Nous sommes interconnectés
+##### Galerie 2 : Nous sommes interconnectés
 Artistes visuels: Alex Le Guillou
 
 Composition musicale: Azu Tiwaline
 
-#### GALERIE 3 : Élevons-nous face aux défis
+##### Galerie 3 : Élevons-nous face aux défis
 Artiste: Émile Roy
 
 Composition musicale: Uberko
 
 ### Équipe de production
-#### GALERIE 3 : Élevons-nous face aux défis
+##### Galerie 3 : Élevons-nous face aux défis
 Réalisateur: Émile Roy
 
 Aide: David Suzuki et Joséphine Bacon
@@ -46,6 +46,30 @@ OASIS Immersion (au palais des congrès)
 301 Saint-Antoine St West
 Montreal, Quebec H2Z 1H5
 
+### Contexte géographique et culturel
 
+### Autres lieux de présentation
+
+## Quoi?
+
+### Description générale
+
+### Objectifs de l'œuvre
+
+### Public cible
+
+### Aspects techniques
+
+### Processus de création
+
+## Comment
+
+### Composante centrale
+
+### Fonctionnement
+
+### Impact
+
+## Appréciation 
 
 
