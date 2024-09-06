@@ -54,8 +54,19 @@ Montreal, Quebec H2Z 1H5
 ---
 
 ### Description générale
+Cette oeuvre est une interprétation créative de la biodiversité. Elle veut mettre en avant autant notre côté émotif que notre côté intellectuel. L'exposition a une durée d'environ 80 minutes soit de 20 à 30 minutes par salle. Il y a des projections lumineuses et sonores.
+
+Le premier volet, Un monde en régénération, amène le public dans le monde entier et parmi ces multiples écosystèmes. Des images de National Geographic sont présentés et ce autant sur le plafond, le sol et les murs.
+ ![Galerie 1 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-2.jpg)
+
+Le dernier volet, Élevons-nous face aux défis, démontre les actions humaines face à l'importance de protéger la nature et d'en prendre soin. Cette partie raconte les dizaines d'initiative pour aider à la conservation de la biodivewrsité.
+![Galerie 1 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-4.jpg)
 
 ### Objectifs de l'œuvre
+L'objectif est de sensibilisé la population sur les enjeux présents sur la faune et la flore.
+
+##### Galerie 1 : Un monde en régénération
+Elle permet de démontrer l'importance de chaque espèce de la biodiversité et leur rôle.
 
 ### Public cible
 
