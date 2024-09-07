@@ -17,6 +17,7 @@
 * Narration: Joséphine Bacon (poète)
 
 ### Équipe de production
+Directeur de la création de Nature vive: Sam Greffe-Bélanger
 ##### Galerie 3 : Élevons-nous face aux défis
 * Réalisateur: Émile Roy
 * Aide: David Suzuki et Joséphine Bacon
@@ -102,10 +103,14 @@ Des initiatives écologiques ont été apporté à la création du projet.
 L'élément clé qui caractérise cette oeuvre serait la projection, puisque des projections à 360 degrés sont présentes. Ce sont celles-ci qui permettent de sensibiliser le public face à ces enjeux importants.
 
 ### Fonctionnement
+Cette composante principale projette sur toutes les surface de la salle des images de la biodiversité. Être dans ce monde féérique amène le public à apercevoir la beauté de la nature. La deuxième galerie va amener le côté fragile de la biodiversité. Cette fragilité va être visualisée chez le public encore une fois par des projections, mais ces images seront plus abstraites cette fois-ci. Plus, le visiteur va avancer de galerie en galerie, plus il va être sensibiliser à propos des enjeux présents sur la biodiversité. L’objectif sera donc atteint par l’apport des projections.
 
 ### Impact
+Elle permet d'ouvrir les yeux à la société face aux monde qui les entoure et à l'importance d'agir pour le meilleur du monde futur. Suite à cette sensibilisation, la société pourra commencer à s'impliquer et puis à agir pour cette cause. 
+Cette oeuvre se distingue des autres, puisqu'elle défend un point de vue qui nous est tous interrelié. 
 
 ## Appréciation 
+J'ai choisi cette oeuvre, puisque j'aimais beaucoup l'idée qu'elle défendait un point de vue soit les enjeux de la biodiversité.
 
 ## Références
 https://oasis.im/nature-vive/
