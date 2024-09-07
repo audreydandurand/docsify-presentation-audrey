@@ -14,6 +14,7 @@
 ##### Galerie 3 : Élevons-nous face aux défis
 * Artiste: Émile Roy
 * Composition musicale: Uberko
+* Narration: Joséphine Bacon (poète)
 
 ### Équipe de production
 ##### Galerie 3 : Élevons-nous face aux défis
@@ -47,20 +48,23 @@ OASIS Immersion (au palais des congrès)
 Montreal, Quebec H2Z 1H5
 
 ### Contexte géographique et culturel
+L'idée de créer cette oeuvre immersive provient de l’accord de la COP15. Celui-ci a eu lieu du 7 au 19 décembre à Montréal. 
 
-### Autres lieux de présentation
+> « La COP15 était axée sur la protection de la nature et les moyens de mettre un terme à l’appauvrissement de la biodiversité partout dans le monde. »
+
+https://www.canada.ca/fr/services/environnement/faune-flore-especes/biodiversite/cop15.html
 
 ## Quoi?
 ---
 
 ### Description générale
-Cette oeuvre est une interprétation créative de la biodiversité. Elle veut mettre en avant autant notre côté émotif que notre côté intellectuel. L'exposition a une durée d'environ 80 minutes soit de 20 à 30 minutes par salle. Il y a des projections lumineuses et sonores.
+Nature vive est une exposition immersive. Cette oeuvre est aussi une interprétation créative de la biodiversité. Elle veut mettre en avant autant notre côté émotif que notre côté intellectuel. L'exposition a une durée d'environ 80 minutes soit de 20 à 30 minutes par salle. Il y a des projections lumineuses et sonores.
 
-Le premier volet, Un monde en régénération, amène le public dans le monde entier et parmi ces multiples écosystèmes. Des images de National Geographic sont présentés et ce autant sur le plafond, le sol et les murs. Elle permet de démontrer l'importance de chaque espèce de la biodiversité et leur rôle.
+Le premier volet, Un monde en régénération, amène le public dans le monde entier et parmi ces multiples écosystèmes. Des images de National Geographic sont présentés et ce autant sur le plafond, le sol et les murs. Elle permet de démontrer l'importance de chaque espèce de la biodiversité et leur rôle. 
 |   ![Galerie 1 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-2.jpg)   |   ![Galerie 1 en image: forêt](https://oasis.im/wp-content/uploads/2023/12/Root-For-Nature-Background.jpg)  |
 |---    |--:    |
 
-Le deuxième volet est une oeuvre plus abstraite. Elle illustre l'interdépendance des écosystèmes et du monde humain
+Le deuxième volet est une oeuvre plus abstraite. Elle illustre l'interdépendance des écosystèmes et du monde humain. On voit prendre forme la vie de la plus petite cellule au plus vaste réseaux d'organismes vivants. De plus, on peut percevoir tout autant sa beauté que sa fragilité, ce qui emplifie l'importance et l'urgence de protéger l'environement.
 
 |   ![Galerie 2 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-3.jpg)   |   ![Galerie 1 en image](https://oasis.im/wp-content/uploads/2024/05/Root-For-Nature-Blue-Magenta-Medium.jpg)  |   ![Galerie 1 en image: forêt](https://oasis.im/wp-content/uploads/2024/05/Root-For-Nature-Bird-Medium.jpg)  |
 |---    |:-:    |--:    |
@@ -69,18 +73,30 @@ Le dernier volet, Élevons-nous face aux défis, démontre les actions humaines 
 |   ![Galerie 3 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-4.jpg)   |   ![Galerie 1 en image](https://oasis.im/wp-content/uploads/2024/05/Root-For-Nature-Blue-Magenta-Medium.jpg) |   ![Galerie 1 en image: forêt](https://oasis.im/wp-content/uploads/2023/12/Root-For-Nature-Background.jpg) |
 |---    |:-:    |--:    |
 ### Objectifs de l'œuvre
-L'objectif est de sensibilisé la population sur les enjeux présents sur la faune et la flore.
+L'objectif est de sensibilisé la population sur les enjeux présents sur la faune et la flore. De plus, le but est aussi d'instruire le public cible sur les enjeux environnementaux.
 
 ### Public cible
-L'oeuvre 
+L'oeuvre s'adresse à tous!
 
 ### Aspects techniques
+Des techniques en création numérique générative ont été utilisées pour la deuxième galerie.
 
+Du mapping sur le sol est utilisé pour la troisième galerie.
+
+### Processus de création
+Des initiatives écologiques ont été apporté à la création du projet. 
+* Réutilisation et réparation d’éléments scénographiques comme les chaises et les bancs
+* L'exposition comporte des meubles usagés.
+* Les impressions 3D utilisées sont composées en partie de plastique recyclé.
+* Le bois a été utilisé pour la construction de certains éléments scénographiques et des ateliers.
+* Les affichages sont majoritairement composés de vinyles préencollés qui contiennent du fibre sans PVC.
+* Les produits québécois ou canadiens ont été privilégiés durant le processus de création.
 
 ## Comment ?
 ---
 
 ### Composante centrale
+L'élément clé qui caractérise cette oeuvre serait la projection, puisque des projections à 360 degrés sont présentes. Ce sont celles-ci qui permettent de sensibiliser le public face à ces enjeux importants.
 
 ### Fonctionnement
 
@@ -88,4 +104,19 @@ L'oeuvre
 
 ## Appréciation 
 
+## Références
+https://oasis.im/nature-vive/
 
+https://montreal-addicts.com/nature-vive-oasis-immersion/
+
+https://www.lapresse.ca/arts/arts-visuels/2023-12-19/nature-vive/faire-rever-pour-faire-agir.php
+
+https://www.lapresse.ca/arts/arts-visuels/2024-02-28/nature-vive/quand-la-politique-inspire-les-createurs.php
+
+https://ici.radio-canada.ca/nouvelle/2036187/oasis-immersion-national-geographic-biodiversite-cop15
+
+https://www.newswire.ca/fr/news-releases/une-aventure-sensorielle-inspiree-des-accords-historiques-de-la-cop15-nature-vive-la-nouvelle-exposition-d-oasis-immersion-produite-et-distribuee-en-collaboration-avec-national-geographic-ouvre-ses-portes-859211376.html
+
+https://fr.davidsuzuki.org/blogue/nature-vive-une-immersion-dans-les-ecosystemes-mondiaux/
+
+https://sortiedefamille.ca/activites/nature-vive-oasis-immersion/
