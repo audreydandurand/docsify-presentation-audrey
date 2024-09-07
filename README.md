@@ -37,7 +37,7 @@ L'oeuvre a été créée en 2023.
 Le 22 février 2024 a été la première présentation de cette oeuvre.
 
 ### Dates importantes
-National Geographic aborde Oasis Immersion pour réaliser l'exposition en 2022.
+National Geographic aborde OASIS Immersion pour réaliser une exposition en 2022.
 
 ## Oû?
 ---
@@ -49,7 +49,7 @@ OASIS Immersion (au palais des congrès)
 Montreal, Quebec H2Z 1H5
 
 ### Contexte géographique et culturel
-L'idée de créer cette oeuvre immersive provient de l’accord de la COP15. Celui-ci a eu lieu du 7 au 19 décembre à Montréal. 
+L'idée de créer cette oeuvre immersive provient de l’accord de la COP15. Celui-ci a eu lieu du 7 au 19 décembre 2023 à Montréal. 
 
 > « La COP15 était axée sur la protection de la nature et les moyens de mettre un terme à l’appauvrissement de la biodiversité partout dans le monde. »
 
