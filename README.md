@@ -76,7 +76,6 @@ Le dernier volet, Élevons-nous face aux défis, démontre les actions humaines 
 |   ![Galerie 3 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-4.jpg)   |   ![Galerie 3 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-5.jpg)  |
 |---    |--:    |
 
-
 ### Objectifs de l'œuvre
 L'objectif est de sensibiliser la population sur les enjeux présents sur la faune et la flore. De plus, le but est aussi d'instruire le public cible sur les enjeux environnementaux.
 
