@@ -31,7 +31,7 @@ L’oeuvre est produite et distribuée par OASIS Studios immersifs en collaborat
 ---
 
 ### Date de création 
-L'oeuvre a été créé en 2023.
+L'oeuvre a été créée en 2023.
 
 ### Date de première présentation
 Le 22 février 2024 a été la première présentation de cette oeuvre.
@@ -59,25 +59,25 @@ https://www.canada.ca/fr/services/environnement/faune-flore-especes/biodiversite
 ---
 
 ### Description générale
-Nature vive est une exposition immersive. Cette oeuvre est aussi une interprétation créative de la biodiversité. Elle veut mettre en avant autant notre côté émotif que notre côté intellectuel. L'exposition a une durée d'environ 80 minutes soit de 20 à 30 minutes par salle. Il y a des projections lumineuses et sonores.
+Nature vive est une exposition immersive. Cette oeuvre est aussi une interprétation créative de la biodiversité. Elle veut mettre en avant autant notre côté émotif que notre côté intellectuel. L'exposition a une durée d'environ 80 minutes, soit de 20 à 30 minutes par salle. Il y a des projections lumineuses et sonores.
 
-Le premier volet, Un monde en régénération, amène le public dans le monde entier et parmi ces multiples écosystèmes. Des images de National Geographic sont présentés et ce autant sur le plafond, le sol et les murs. Elle permet de démontrer l'importance de chaque espèce de la biodiversité et leur rôle. 
+Le premier volet, Un monde en régénération, amène le public dans le monde entier et parmi ces multiples écosystèmes. Des images de National Geographic sont présentés, et ce autant sur le plafond, le sol et les murs. Elle permet de démontrer l'importance de chaque espèce de la biodiversité et leur rôle. 
 
 |   ![Galerie 1 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-2.jpg)   |   ![Galerie 1 en image: forêt](https://oasis.im/wp-content/uploads/2023/12/Root-For-Nature-Background.jpg)  |   ![Galerie 1 en image: forêt](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-1536x1024.jpg)  |
 |---    |:-:    |--:    |
 
-Le deuxième volet est une oeuvre plus abstraite. Elle illustre l'interdépendance des écosystèmes et du monde humain. On voit prendre forme la vie de la plus petite cellule au plus vaste réseaux d'organismes vivants. De plus, on peut percevoir tout autant sa beauté que sa fragilité, ce qui emplifie l'importance et l'urgence de protéger l'environement.
+Le deuxième volet est une oeuvre plus abstraite. Elle illustre l'interdépendance des écosystèmes et du monde humain. On voit prendre forme la vie de la plus petite cellule au plus vaste réseau d'organismes vivants. De plus, on peut percevoir tout autant sa beauté que sa fragilité, ce qui emplifie l'importance et l'urgence de protéger l'environnement.
 
 |   ![Galerie 2 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-3.jpg)   |   ![Galerie 1 en image](https://oasis.im/wp-content/uploads/2024/05/Root-For-Nature-Blue-Magenta-Medium.jpg)  |   ![Galerie 1 en image: forêt](https://oasis.im/wp-content/uploads/2024/05/Root-For-Nature-Bird-Medium.jpg)  |
 |---    |:-:    |--:    |
 
-Le dernier volet, Élevons-nous face aux défis, démontre les actions humaines face à l'importance de protéger la nature et d'en prendre soin. On y présente ces impacts positifs. Cette partie raconte les dizaines d'initiative pour aider à la conservation de la biodiversité.
+Le dernier volet, Élevons-nous face aux défis, démontre les actions humaines face à l'importance de protéger la nature et d'en prendre soin. On y présente ces impacts positifs. Cette partie raconte les dizaines d'initiatives pour aider à la conservation de la biodiversité.
 
 |   ![Galerie 3 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-4.jpg)   |   ![Galerie 1 en image](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-5.jpg)  |   ![Galerie 1 en image: forêt](https://oasis.im/wp-content/uploads/2024/05/Root-For-Nature-Map-Medium.jpg)  |
 |---    |:-:    |--:    |
 
 ### Objectifs de l'œuvre
-L'objectif est de sensibilisé la population sur les enjeux présents sur la faune et la flore. De plus, le but est aussi d'instruire le public cible sur les enjeux environnementaux.
+L'objectif est de sensibiliser la population sur les enjeux présents sur la faune et la flore. De plus, le but est aussi d'instruire le public cible sur les enjeux environnementaux.
 
 ### Public cible
 L'oeuvre s'adresse à tous!
@@ -88,7 +88,7 @@ Des techniques en création numérique générative ont été utilisées pour la
 Du mapping sur le sol est utilisé pour la troisième galerie.
 
 ### Processus de création
-Des initiatives écologiques ont été apporté à la création du projet. 
+Des initiatives écologiques ont été apportées à la création du projet. 
 * Réutilisation et réparation d’éléments scénographiques comme les chaises et les bancs
 * L'exposition comporte des meubles usagés.
 * Les impressions 3D utilisées sont composées en partie de plastique recyclé.
@@ -103,14 +103,14 @@ Des initiatives écologiques ont été apporté à la création du projet.
 L'élément clé qui caractérise cette oeuvre serait la projection, puisque des projections à 360 degrés sont présentes. Ce sont celles-ci qui permettent de sensibiliser le public face à ces enjeux importants.
 
 ### Fonctionnement
-Cette composante principale projette sur toutes les surface de la salle des images de la biodiversité. Être dans ce monde féérique amène le public à apercevoir la beauté de la nature. La deuxième galerie va amener le côté fragile de la biodiversité. Cette fragilité va être visualisée chez le public encore une fois par des projections, mais ces images seront plus abstraites cette fois-ci. Plus, le visiteur va avancer de galerie en galerie, plus il va être sensibiliser à propos des enjeux présents sur la biodiversité. L’objectif sera donc atteint par l’apport des projections.
+Cette composante principale projette sur toutes les surfaces de la salle des images de la biodiversité. Être dans ce monde féérique amène le public à apercevoir la beauté de la nature. La deuxième galerie va amener le côté fragile de la biodiversité. Cette fragilité va être visualisée chez le public encore une fois par des projections, mais ces images seront plus abstraites cette fois-ci. Plus, le visiteur va avancer de galerie en galerie, plus il va être sensibilisé à propos des enjeux présents sur la biodiversité. L’objectif sera donc atteint par l’apport des projections.
 
 ### Impact
-Elle permet d'ouvrir les yeux à la société face aux monde qui les entoure et à l'importance d'agir pour le meilleur du monde futur. Suite à cette sensibilisation, la société pourra commencer à s'impliquer et puis à agir pour cette cause. 
+Elle permet d'ouvrir les yeux à la société face au monde qui les entoure et à l'importance d'agir pour le meilleur du monde futur. Suite à cette sensibilisation, la société pourra commencer à s'impliquer, puis à agir pour cette cause. 
 Cette oeuvre se distingue des autres, puisqu'elle défend un point de vue qui nous est tous interrelié. 
 
 ## Appréciation 
-J'ai choisi cette oeuvre, puisque j'aimais beaucoup l'idée qu'elle défendait un point de vue soit les enjeux de la biodiversité.
+J'ai choisi cette oeuvre, puisque j'aimais beaucoup l'idée qu'elle défendait un point de vue, soit les enjeux de la biodiversité.
 
 ## Références
 https://oasis.im/nature-vive/
