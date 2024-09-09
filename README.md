@@ -106,6 +106,9 @@ Des initiatives écologiques ont été apportées à la création du projet.
 ### Composante centrale
 L'élément clé qui caractérise cette oeuvre serait la projection, puisque des projections à 360 degrés sont présentes. Ce sont celles-ci qui permettent de sensibiliser le public face à ces enjeux importants.
 
+|   ![Galerie 3 en image](https://mobile-img.lpcdn.ca/v2/924x/r3996/9949ba474bce39b1b302e7090e8847e9.jpg)   |
+|-----------|
+
 ### Fonctionnement
 Cette composante principale projette sur toutes les surfaces de la salle des images de la biodiversité. Être dans ce monde féérique amène le public à apercevoir la beauté de la nature. La deuxième galerie va amener le côté fragile de la biodiversité. Cette fragilité va être visualisée chez le public encore une fois par des projections, mais ces images seront plus abstraites cette fois-ci. Plus, le visiteur va avancer de galerie en galerie, plus il va être sensibilisé à propos des enjeux présents sur la biodiversité. L’objectif sera donc atteint par l’apport des projections.
 
