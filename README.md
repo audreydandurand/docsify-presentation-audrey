@@ -1,6 +1,9 @@
 # Nature vive - OASIS immersion
 
-|   ![Galerie 3 en image](https://montreal-addicts.com/wp-content/uploads/2024/02/nature-vive-oasis-immersion-4.png)   |   ![Galerie 3 en image](https://mnj.quebec/wp-content/uploads/2024/01/1703181312914.jpeg)  |
+|   ![Salle en image](https://montreal-addicts.com/wp-content/uploads/2024/02/nature-vive-oasis-immersion-4.png)   |   ![Page présentation de l'oeuvre](https://mnj.quebec/wp-content/uploads/2024/01/1703181312914.jpeg)  |
+|-----------|-----------|
+
+|   ![Immersion dans la mer](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-1.jpg)   |   ![Projection de chanpignon](https://fr.davidsuzuki.org/wp-content/uploads/sites/3/2024/02/Nature-Vive-7.jpg)  |
 |-----------|-----------|
 
 
