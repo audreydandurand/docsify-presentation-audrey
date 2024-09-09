@@ -50,12 +50,10 @@ National Geographic aborde OASIS Immersion pour réaliser une exposition en 2022
 ---
 
 ### Lieu de présentation initiale
-OASIS Immersion (au palais des congrès)
+[OASIS Immersion](https://oasis.im/ ) (au palais des congrès)
 
 301 Saint-Antoine St West
 Montreal, Quebec H2Z 1H5
-
-https://oasis.im/ 
 
 ### Contexte géographique et culturel
 L'idée de créer cette oeuvre immersive provient de l’accord de la COP15. Celui-ci a eu lieu du 7 au 19 décembre 2022 à Montréal. 
