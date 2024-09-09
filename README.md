@@ -53,7 +53,7 @@ OASIS Immersion (au palais des congrès)
 Montreal, Quebec H2Z 1H5
 
 ### Contexte géographique et culturel
-L'idée de créer cette oeuvre immersive provient de l’accord de la COP15. Celui-ci a eu lieu du 7 au 19 décembre 2023 à Montréal. 
+L'idée de créer cette oeuvre immersive provient de l’accord de la COP15. Celui-ci a eu lieu du 7 au 19 décembre 2022 à Montréal. 
 
 > « La COP15 était axée sur la protection de la nature et les moyens de mettre un terme à l’appauvrissement de la biodiversité partout dans le monde. »
 
